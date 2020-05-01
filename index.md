@@ -1,5 +1,4 @@
-
-I'm a data scientist in Minnesota. I help business with data science problems.
+https://medium.com/@gwal325/how-the-nba-has-changed-in-the-past-20-years-and-insights-to-win-23f8e9f17643
 
 ### Contact
 - [Email](mailto:godingwal@icloud.com)
